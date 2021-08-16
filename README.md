@@ -1,2 +1,2 @@
-# -joao-victor-p7info-poo
+# Repositório de POO
 Repositório de Atividades da Disciplina de POO
