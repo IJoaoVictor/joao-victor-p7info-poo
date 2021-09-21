@@ -23,5 +23,5 @@ while True:
     print("\n   Entrada   |   Saída  ")
     print("------------------------")
     print(str(frase) + " | " + str(saida) + "\n")
-
+    
 print("\nA maior palavra digitada foi: %s" % maior_palavra)
