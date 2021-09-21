@@ -21,6 +21,6 @@ def soma_primos(n):
         num += 1
 
     print("Os " + str(int(n)) + " primeiros termos: " + str(primos))
-    print("A soma dos " + str(int(n)) + " primeiros termos são: " + str(int(soma)))
+    print("A soma dos " + str(int(n)) + " primeiros termos é: " + str(int(soma)))
 
 print(soma_primos(n))
