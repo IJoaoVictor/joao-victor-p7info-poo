@@ -1,4 +1,4 @@
-string = 0
+tamanho_palavra = 0
 
 while True:
 
@@ -14,8 +14,8 @@ while True:
     for i in palavra:
         lista.append(str(len(i)))
 
-        if len(i) >= string:
-            string = len(i)
+        if len(i) >= tamanho_palavra:
+            tamanho_palavra = len(i)
             maior_palavra = i
 
     saida = '-'.join(lista)
