@@ -1,1 +1,1 @@
-# Executar main.py para gerar banco de dados
+# Run main.py
